@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://rawscripts.net/raw/Hunty-Zombie-UPDATE-1.6-OP-Autofarm-keyless-50501"))()
