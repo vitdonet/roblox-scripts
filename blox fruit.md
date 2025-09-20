@@ -10,7 +10,7 @@ No Key
 
 No key
 
-local Settings = {
+```local Settings = {
 
     JoinTeam = "Pirates"; -- Pirates / Marines
 
@@ -20,7 +20,7 @@ local Settings = {
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
 
 ### W-azure
 
@@ -115,6 +115,7 @@ getgenv().Hide\_UI = true
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/KaitunFishing.lua"))()
+
 
 
 
