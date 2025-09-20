@@ -1,12 +1,12 @@
 # ***blox fruit***
 
-#### Blue Hub
+### Blue Hub
 
 No Key
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
 
-#### Redz Hub
+### Redz Hub
 
 No key
 
@@ -22,13 +22,13 @@ local Settings = {
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
 
-#### W-azure
+### W-azure
 
 No Key
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/85e904ae1ff30824c1aa007fc7324f8f.lua"))()
 
-#### Vxeze hub
+### Vxeze hub
 
 No Key
 
@@ -115,4 +115,5 @@ getgenv().Hide\_UI = true
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/KaitunFishing.lua"))()
+
 
