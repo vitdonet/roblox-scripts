@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/r
 ### Redz Hub
 
 No key
-
+```
 local Settings = {
 
     JoinTeam = "Pirates"; -- Pirates / Marines
@@ -21,17 +21,17 @@ local Settings = {
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
-
+```
 ### W-azure
 
 No Key
-
+```
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/85e904ae1ff30824c1aa007fc7324f8f.lua"))()
-
+```
 ### Vxeze hub
 
 No Key
-
+```
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 
 getgenv().Team = "Marines"
@@ -115,6 +115,7 @@ getgenv().Hide\_UI = true
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/KaitunFishing.lua"))()
+```
 
 
 
