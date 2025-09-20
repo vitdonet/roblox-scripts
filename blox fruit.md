@@ -10,7 +10,7 @@ No Key
 
 No key
 
-```local Settings = {
+local Settings = {
 
     JoinTeam = "Pirates"; -- Pirates / Marines
 
