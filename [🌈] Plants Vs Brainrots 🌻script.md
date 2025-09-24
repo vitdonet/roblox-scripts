@@ -11,3 +11,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Plants-vs-
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d7be76c234d46ce6770101fded39760c.lua"))()
 ```
+## **Chiyo**
+#### **GetKey**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaisenlmao/loader/refs/heads/main/chiyo.lua"))()
+```
