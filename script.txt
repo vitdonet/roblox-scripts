@@ -1,0 +1,31 @@
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hassanxzayn-lua/Anti-afk/main/antiafkbyhassanxzyn"))();
+
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Aimbot-55804"))()
+
+--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+getgenv().morph = true -- turn false to true if you want custom accessories
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/refs/heads/main/LatestV2.lua"))()
+
+Taxi Boss
+📅 Published on: 15-09-2025 06:47
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/Taxi%20Boss", true))()
+key LegoLua_Key_W8K3LZN
+
+
+tbs 
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-Diablo-Hub-I-Tsb-best-script-60372"))()
+
+
+dddddddddd
+[🎃] Raise Animals
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Raise-Animals-Best-script-61196"))()
+
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Raise-Animals-KEYLESS-AUTO-SWAP-AUTO-TP-SWAP-AUTOFARM-FEATURES-AUTOBUY-61562"))()
