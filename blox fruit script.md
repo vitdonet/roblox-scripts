@@ -124,5 +124,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/r
 2 : Script Gravity Hub
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-NO-KEY-Silent-Aim-Skill-Prediction-ESP-Invisible-82165"))()
 
 
