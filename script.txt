@@ -29,3 +29,11 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/Raise-Animals-Best-script-61
 
 
 loadstring(game:HttpGet("https://rawscripts.net/raw/Raise-Animals-KEYLESS-AUTO-SWAP-AUTO-TP-SWAP-AUTOFARM-FEATURES-AUTOBUY-61562"))()
+ExploitingisFUN 
+loadstring(game:HttpGet("https://rawscripts.net/raw/Raise-Animals-eF-Hub-61364"))()
+dodohubx
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dodohubx-rgb/dodohub/refs/heads/main/loader.luau"))()
+kill
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UwURaww/ZumHubasset/refs/heads/main/KILL%20SCRIPT%20SWORD%20%26%20TOOLS"))()
+ inf yield
+ư
