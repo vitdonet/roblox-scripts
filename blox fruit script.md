@@ -126,6 +126,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/r
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-NO-KEY-Silent-Aim-Skill-Prediction-ESP-Invisible-82165"))()
 ### kaitum icm
+
+
 Config = {
  Team = "Pirates",
  Configuration = {
@@ -208,3 +210,4 @@ getgenv().NightMysticConfig = {
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-NightMystic/Bloxfruits/refs/heads/main/AutoBountyez"))()
+
