@@ -125,5 +125,86 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/r
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-NO-KEY-Silent-Aim-Skill-Prediction-ESP-Invisible-82165"))()
+### kaitum icm
+Config = {
+ Team = "Pirates",
+ Configuration = {
+ HopWhenIdle = true,
+ AutoHop = true,
+ AutoHopDelay = 60 * 60,
+ FpsBoost = true,
+ blackscreen = false
+ },
+ Items = {
 
+ -- Melees 
+ AutoFullyMelees = true,
 
+ -- Swords 
+ Saber = true,
+ CursedDualKatana = false,
+
+ -- Guns 
+ SoulGuitar = false,
+
+ -- Upgrades 
+
+ RaceV2 = true
+
+ },
+ Settings = {
+ StayInSea2UntilHaveDarkFragments = false
+ }
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sucvatthieunang/djtme/refs/heads/main/module"))()
+
+### Auto Bounty 
+
+getgenv().NightMysticConfig = {
+ ["TeamSettings"] = {
+ ["SelectTeam"] = "Pirates" -- Options: "Pirates" or "Marines"
+ },
+ ["CombatSettings"] = {
+ ["AutoBounty"] = true,
+ ["AutoAttack"] = true,
+ ["AttackSpeed"] = 12,
+ ["AttackRange"] = 45,
+ ["HitboxSize"] = 30
+ },
+ ["SafetySettings"] = {
+ ["SafeHealth"] = 4500, -- Life to escape
+ ["ReturnHealth"] = 9000, -- Life to attack again
+ ["SafeHeight"] = 2500 -- Safe flight altitude
+ },
+ ["SkillSettings"] = {
+ ["Melee"] = {
+ ["Z"] = {Enabled = true, Hold = 0.05, Wait = 0.3},
+ ["X"] = {Enabled = true, Hold = 0.05, Wait = 0.3},
+ ["C"] = {Enabled = true, Hold = 0.05, Wait = 0.3}
+ },
+ ["Fruit"] = {
+ ["Z"] = {Enabled = true, Hold = 0.1, Wait = 0.4},
+ ["X"] = {Enabled = true, Hold = 0.1, Wait = 0.4},
+ ["C"] = {Enabled = true, Hold = 0.1, Wait = 0.4},
+ ["V"] = {Enabled = true, Hold = 0.1, Wait = 0.4}
+ },
+ ["Sword"] = {
+ ["Z"] = {Enabled = true, Hold = 0.05, Wait = 0.3},
+ ["X"] = {Enabled = true, Hold = 0.05, Wait = 0.3}
+ },
+ ["Gun"] = {
+ ["Z"] = {Enabled = true, Hold = 0.05, Wait = 0.3},
+ ["X"] = {Enabled = true, Hold = 0.05, Wait = 0.3}
+ }
+ },
+ ["MiscSettings"] = {
+ ["AutoRace"] = true, -- Activate Race V3
+ ["AutoAwakenV4"] = true,
+ ["AutoHaki"] = true,
+ ["AutoKen"] = true,
+ ["AutoRandomFruit"] = true,
+ ["AutoStoreFruit"] = true
+ }
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-NightMystic/Bloxfruits/refs/heads/main/AutoBountyez"))()
